@@ -1,0 +1,145 @@
+verbos_facil = {
+    "ver": {"en_ingles": "saw", "original": "see"},
+    "ir": {"en_ingles": "went", "original": "go"},
+    "leer": {"en_ingles": "read", "original": "read"},
+    "ganar": {"en_ingles": "won", "original": "win"},
+    "cortar": {"en_ingles": "cut", "original": "cut"},
+    "cantar": {"en_ingles": "sang", "original": "sing"},
+    "hablar": {"en_ingles": "spoke", "original": "speak"},
+    "comer": {"en_ingles": "ate", "original": "eat"},
+    "tener": {"en_ingles": "had", "original": "have"},
+    "sacar": {"en_ingles": "took", "original": "take out"},
+    "correr": {"en_ingles": "ran", "original": "run"},
+    "sentir": {"en_ingles": "felt", "original": "feel"},
+    "perder": {"en_ingles": "lost", "original": "lose"},
+    "volar": {"en_ingles": "flew", "original": "fly"},
+    "crecer": {"en_ingles": "grew", "original": "grow"},
+    "envejecer": {"en_ingles": "aged", "original": "age"},
+    "decir": {"en_ingles": "said", "original": "say"},
+    "venir": {"en_ingles": "came", "original": "come"},
+    "poner": {"en_ingles": "put", "original": "put"},
+    "nadar": {"en_ingles": "swam", "original": "swim"},
+    "vender": {"en_ingles": "sold", "original": "sell"},
+}
+
+verbos_medio = {
+    "vivir": {"en_ingles": "lived", "original": "live"},
+    "gastar": {"en_ingles": "spent", "original": "spend"},
+    "ahorrar": {"en_ingles": "saved", "original": "save"},
+    "bailar": {"en_ingles": "danced", "original": "dance"},
+    "escribir": {"en_ingles": "wrote", "original": "write"},
+    "romper": {"en_ingles": "broke", "original": "break"},
+    "pegar": {"en_ingles": "stuck", "original": "stick"},
+    "pelear": {"en_ingles": "fought", "original": "fight"},
+    "amar": {"en_ingles": "loved", "original": "love"},
+    "barrer": {"en_ingles": "swept", "original": "sweep"},
+    "odiar": {"en_ingles": "hated", "original": "hate"},
+    "construir": {"en_ingles": "built", "original": "build"},
+    "dormir": {"en_ingles": "slept", "original": "sleep"},
+    "beber": {"en_ingles": "drank", "original": "drink"},
+    "conducir": {"en_ingles": "drove", "original": "drive"},
+    "llorar": {"en_ingles": "cried", "original": "cry"},
+    "cazar": {"en_ingles": "hunted", "original": "hunt"},
+    "peinar": {"en_ingles": "combed", "original": "comb"},
+    "limpiar": {"en_ingles": "cleaned", "original": "clean"},
+    "cuidar": {"en_ingles": "cared", "original": "care"},
+    "jugar": {"en_ingles": "played", "original": "play"},
+    "saludar": {"en_ingles": "greeted", "original": "greet"},
+    "escuchar": {"en_ingles": "heard", "original": "hear"},
+    "mirar": {"en_ingles": "watched", "original": "watch"},
+    "comprar": {"en_ingles": "bought", "original": "buy"},
+    "llevar": {"en_ingles": "carried", "original": "carry"},
+    "llevar": {"en_ingles": "carried", "original": "carry"},
+    "abrir": {"en_ingles": "opened", "original": "open"},
+    "cerrar": {"en_ingles": "closed", "original": "close"},
+    "caer": {"en_ingles": "fell", "original": "fall"},
+    "contar": {"en_ingles": "counted", "original": "count"},
+    "pegar": {"en_ingles": "hit", "original": "hit"},
+    "matar": {"en_ingles": "killed", "original": "kill"},
+    "mirar": {"en_ingles": "looked", "original": "look"},
+    "enviar": {"en_ingles": "sent", "original": "send"},
+    "cambiar": {"en_ingles": "changed", "original": "change"},
+    "limpiar": {"en_ingles": "wiped", "original": "wipe"},
+    "abrir": {"en_ingles": "opened", "original": "open"},
+    "tocar": {"en_ingles": "touched", "original": "touch"},
+    "romper": {"en_ingles": "tore", "original": "tear"},
+    "resolver": {"en_ingles": "solved", "original": "solve"},
+    "voltear": {"en_ingles": "turned", "original": "turn"},
+    "terminar": {"en_ingles": "finished", "original": "finish"},
+    "despertar": {"en_ingles": "woke", "original": "wake"},
+}
+
+verbos_dificil = {
+    "besar": {"en_ingles": "kissed", "original": "kiss"},
+    "llamar": {"en_ingles": "called", "original": "call"},
+    "llover": {"en_ingles": "rained", "original": "rain"},
+    "saltar": {"en_ingles": "jumped", "original": "jump"},
+    "jugar": {"en_ingles": "played", "original": "play"},
+    "nevar": {"en_ingles": "snowed", "original": "snow"},
+    "caminar": {"en_ingles": "walked", "original": "walk"},
+    "suspirar": {"en_ingles": "sighed", "original": "sigh"},
+    "trabajar": {"en_ingles": "worked", "original": "work"},
+    "abrazar": {"en_ingles": "hugged", "original": "hug"},
+    "respirar": {"en_ingles": "breathed", "original": "breathe"},
+    "entender": {"en_ingles": "understood", "original": "understand"},
+    "comprar": {"en_ingles": "bought", "original": "buy"},
+    "cocinar": {"en_ingles": "cooked", "original": "cook"},
+    "limpiar": {"en_ingles": "cleaned", "original": "clean"},
+    "lavar": {"en_ingles": "washed", "original": "wash"},
+    "planchar": {"en_ingles": "ironed", "original": "iron"},
+    "estudiar": {"en_ingles": "studied", "original": "study"},
+    "gritar": {"en_ingles": "shouted", "original": "shout"},
+    "destruir": {"en_ingles": "destroyed", "original": "destroy"},
+    "reparar": {"en_ingles": "repaired", "original": "repair"},
+    "reír": {"en_ingles": "laughed", "original": "laugh"},
+    "escuchar": {"en_ingles": "listened", "original": "listen"},
+    "aplaudir": {"en_ingles": "applauded", "original": "applaud"},
+    "observar": {"en_ingles": "observed", "original": "observe"},
+    "organizar": {"en_ingles": "organized", "original": "organize"},
+    "preguntar": {"en_ingles": "asked", "original": "ask"},
+    "responder": {"en_ingles": "answered", "original": "answer"},
+    "dirigir": {"en_ingles": "led", "original": "lead"},
+    "comprender": {"en_ingles": "understood", "original": "understand"},
+    "traducir": {"en_ingles": "translated", "original": "translate"},
+    "realizar": {"en_ingles": "performed", "original": "perform"},
+    "recordar": {"en_ingles": "remembered", "original": "remember"},
+    "recoger": {"en_ingles": "picked", "original": "pick"},
+    "celebrar": {"en_ingles": "celebrated", "original": "celebrate"},
+    "mencionar": {"en_ingles": "mentioned", "original": "mention"},
+    "prometer": {"en_ingles": "promised", "original": "promise"},
+    "soñar": {"en_ingles": "dreamed", "original": "dream"},
+    "arrepentirse": {"en_ingles": "repented", "original": "repent"},
+    "construir": {"en_ingles": "constructed", "original": "construct"},
+    "pertenecer": {"en_ingles": "belonged", "original": "belong"},
+    "producir": {"en_ingles": "produced", "original": "produce"},
+    "desear": {"en_ingles": "wished", "original": "wish"},
+    "discutir": {"en_ingles": "argued", "original": "argue"},
+    "descubrir": {"en_ingles": "discovered", "original": "discover"},
+    "viajar": {"en_ingles": "traveled", "original": "travel"},
+    "proteger": {"en_ingles": "protected", "original": "protect"},
+    "aprender": {"en_ingles": "learned", "original": "learn"},
+    "juzgar": {"en_ingles": "judged", "original": "judge"},
+    "seguir": {"en_ingles": "followed", "original": "follow"},
+    "aceptar": {"en_ingles": "accepted", "original": "accept"},
+    "rechazar": {"en_ingles": "rejected", "original": "reject"},
+}
+
+instrucciones = """
+RELLENA LAS CASILLAS CON UN VERBO EN PASADO SIMPLE EN INGLÉS
+
+
+
+PRESIONA EL BOTÓN "VERIFICAR" PARA COMPROBAR SI EL VERBO ES CORRECTO
+
+
+
+SI UNA LETRA ESTÁ EN LA POSICIÓN INCORRECTA, LA LETRA SE VUELVE AMARILLA
+
+
+
+SI UNA LETRA ESTÁ EN LA POSICIÓN CORRECTA, LA LETRA SE VUELVE VERDE
+
+
+
+DESPUÉS DE CADA JUEGO, TIENES LA OPCIÓN DE VOLVER A JUGAR
+"""
